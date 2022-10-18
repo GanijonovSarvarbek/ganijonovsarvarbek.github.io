@@ -1,0 +1,2 @@
+- this is just my first work
+- teacher: Ulugbek Samigjonov
